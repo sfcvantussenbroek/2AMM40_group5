@@ -4,7 +4,7 @@ This guide explains how to use the code to get the feature visualizations for th
 
 1. ViT visualizations and Comparison
 The code for the ViT visualizations should be opened in Google Collab and all cells have to be executed.
-Before running the cnn_vit_comparison notebook, the ViT-images and ResNet-Images need to be saved in folders on your google drive.
+Before running the cnn_vit_comparison notebook, the ViT-images from the "vit_visualizations"-folder and ResNet-Images from the "resnet_visualizations"-folder need to be saved in folders on your google drive.
 The variables "resnet_folder" and "vit_folder" have to be changed to the folders where you saved the images.
 
 3. ResNet visualizations
